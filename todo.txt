@@ -1,0 +1,4 @@
+1. Add executive rank to config so I can add people via config and remove EXECUTIVES from TFM_Util
+2. Add a /forums that redirects a user to forums
+3. Add a 'PacksFreedom Information Command' giving information to useful commands
+4. Later port over to 1.9 until TFM 5.0 is released
